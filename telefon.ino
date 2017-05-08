@@ -6,7 +6,7 @@
 9 - tipke
 10-22 tipke
 */
-
+//test
 #include <EEPROM.h>
 
 #include <Adafruit_GFX.h>
